@@ -69,5 +69,8 @@ public enum CommonEnum {
     public void setValue(String value) {
         this.value = value;
     }
+	
+	
+	111111
 
 }
