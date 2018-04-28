@@ -69,9 +69,15 @@ public enum CommonEnum {
     public void setValue(String value) {
         this.value = value;
     }
+<<<<<<< HEAD
 	22222	
 	3333
 	5555
 	111111
+=======
+	1111111
+	
+	222222
+>>>>>>> c545601ef4a27c54c55c38783bd886a0221b896f
 
 }

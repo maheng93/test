@@ -1,0 +1,29 @@
+From 3a87116533cdc0059b03baf8c1863e24955d8a22 Mon Sep 17 00:00:00 2001
+From: Matthew <maheng93@163.com>
+Date: Sat, 28 Apr 2018 09:51:51 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=B5=8B=E8=AF=95=E4=B8=A4=E6=AC=A1add?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Signed-off-by: Matthew <maheng93@163.com>
+---
+ Common.java | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+diff --git a/Common.java b/Common.java
+index e967539..52b77d5 100644
+--- a/Common.java
++++ b/Common.java
+@@ -69,8 +69,9 @@ public enum CommonEnum {
+     public void setValue(String value) {
+         this.value = value;
+     }
+ 	111111
+ 
+-}
+\ No newline at end of file
++}
+-- 
+2.16.2.windows.1
+
